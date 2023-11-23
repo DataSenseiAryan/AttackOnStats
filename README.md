@@ -1,6 +1,6 @@
 # AttackOnStats
+![Image Description](https://github.com/DataSenseiAryan/AttackOnStats/blob/main/Assests/covid.png)
 
-Creating a README file for a project involving the Cough Vid dataset for COVID-19 prediction, including hypothesis testing and machine learning models, could look something like this:
 
 ---
 
